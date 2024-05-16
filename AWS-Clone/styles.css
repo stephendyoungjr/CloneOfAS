@@ -23,3 +23,118 @@
 .navbar-2 a {
     color: white;
 }
+
+.navbar-3{
+display: flex;
+justify-content: space-around;
+padding: 15px 140px;
+background-color: white ;
+}
+
+.freeTier{
+font-weight: bold;
+}
+
+header{
+
+position: sticky;
+top: 0px;
+
+}
+
+body{
+height : 3000px;
+
+}
+
+img{
+width : 1454px;
+}
+
+p{
+display: flex;
+justify-content: center;
+}
+
+
+
+
+a{
+padding:0 8px;
+
+}
+
+b{
+padding:0 8px;
+}
+
+.generativeAI{
+color: blue;
+text-decoration: underline;
+}
+
+.bodypart1and2{
+border: 1px solid gray;
+}
+
+.ThreeTypesOfOffers{
+display: flex;
+justify-content: center;
+}
+
+.bodySentence{
+display: flex;
+justify-content: center;
+text-align: center;
+padding: 0 300px;
+}
+
+.bodypart2{
+display: grid;
+grid-template-columns: repeat(3, 300px);
+width: 1454px;
+}
+
+.section-1 img{
+width: fit-content;
+}
+
+.section-2 img{
+width: fit-content;
+}
+
+.section-3 img{
+width: fit-content;
+}
+
+.bodypart2 p{
+display: flex;
+width: fit-content;
+/* justify-self: center; */
+text-align: center;
+}
+
+.compute img{
+height: 50px;
+width: 50px;
+
+}
+
+.compute{
+
+width: 155px;
+height: 75px;
+padding: 0 20px;
+}
+
+.buttons{
+display: block;
+justify-content: space-evenly;
+padding-left: 50px;
+/* width: 155px;
+height: 75px;  */
+}
+
+h4{
+padding-left: 50px;
+}
